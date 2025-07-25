@@ -47,6 +47,7 @@ MetaMask
 Sepolia Ethereum Testnet
 
 
+---
 
 ## 🧪 Smart Contract Setup (Hardhat)
 
@@ -66,6 +67,10 @@ Compile the contract
 Deploy to Sepolia Testnet
   npx hardhat run scripts/deploy.js --network sepolia
 
+
+---
+
+
 💻 Frontend Setup (React + Vite)
 1. Go to the frontend folder
 
@@ -77,6 +82,10 @@ export const ABI = [ /* Paste ABI here */ ];
 
 Start development server
 npm run dev
+
+
+---
+
 
 🦊 MetaMask Setup
 Connect MetaMask
@@ -90,4 +99,4 @@ Interact with the contract
 
 ---
 
-Let me know if you want this automatically generated and committed to a `README.md` file inside your folder.
+
