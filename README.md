@@ -35,6 +35,9 @@ Burn Tokens – Enter an amount and click Burn.
 
 Redeem Tokens – Enter the amount and a reward description to redeem.
 
+
+---
+
 🛠 Built With
 React
 
